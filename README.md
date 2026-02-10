@@ -21,8 +21,9 @@
 
 ## What is this?
 
-A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard. Perfect for VTubing setups, game dev prototyping, or live avatar puppeteering.
+A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard to skirt the discord juice. robably has some other utility, but who cares
 
+https://github.com/user-attachments/assets/4aba4a67-9847-4d28-9c8c-4129a67e9332
 ### Features
 
 - **Multi-format support** — VRM, FBX (with textures via ZIP or folder drop), GLB/GLTF
@@ -36,7 +37,7 @@ A browser-based tool that lets you control a 3D rigged avatar's head and mouth i
 ## Quick Start
 
 1. Open `index.html` in your browser
-2. Load a rigged model (VRM, FBX, GLB)
+2. Load a rigged model (VRM, FBX, GLB) (FBX model included in the zip)
 3. Bones auto-detect — adjust in dropdowns if needed
 4. Use the **Morph Tester** to find and map the right mouth shape
 5. Control with gamepad or keyboard
