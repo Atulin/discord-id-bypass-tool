@@ -20,6 +20,8 @@
 
 ---
 
+# [Available online here](https://atulin.github.io/discord-id-bypass-tool/)
+
 ## What is this?
 
 A browser-based tool that lets you control a 3D rigged avatar's head and mouth in real-time using a gamepad (DualSense, Xbox, etc.) or keyboard to skirt the discord juice, or soyjack with your favourite rigged models just for fun! 
